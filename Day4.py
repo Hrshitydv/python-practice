@@ -1,7 +1,7 @@
 logs=["ERROR DISK FULL","INFO STARTED","ERROR FILE MISSING","WARNING MEMORY LOW"]
 count_error=0
 count_warning=0
-count_info=0\
+count_info=0
 #TO COUNT ERROR 
 for i in logs:
     if "ERROR" in i:
