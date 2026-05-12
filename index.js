@@ -17,3 +17,7 @@ const DOB="18-08-05"
 const age=23
 const name="Lakshay"
 const DOB="20-09-03"
+
+const age =24
+const name="bittu"
+const DOB="20-11-04"
